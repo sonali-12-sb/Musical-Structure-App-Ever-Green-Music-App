@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EverGreenMusicApp</string>
+
+    <!-- strings used for Main Activity-->
+    <string name="title_app">EverGreen Music App</string>
+    <string name="quote">Music speaks When word fails!</string>
+    <string name="description">Open the World of Music!. Unleash the Power of Sound...</string>
+    <string name="instruction">Click on Start Exploring button and browse Artists, Albums, Playlists, Songs</string>
+    <string name="start_btn">Start Exploring</string>
+    <string name="content">Music Image</string>
+
+    <!-- strings used for Music Activity-->
+    <string name="music">Music</string>
+    <string name="song">Songs</string>
+    <string name="playlists">Playlists</string>
+    <string name="artists">Artists</string>
+    <string name="albums">Albums</string>
+
+    <!-- strings used for Playlist Activity-->
+    <string name="playing">Now Playing</string>
+    <string name="new_list">Create New Playlist</string>
+    <string name="song_name">Look What You Made Me Do</string>
+    <string name="artist">Taylor Swift</string>
+</resources>
