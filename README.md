@@ -39,7 +39,9 @@ Upon selecting a category, the user navigates to a new screen that presents a li
 ---
 
 ### 🖼️ Screenshots  
-  <img src="screenshots/screen1.png" width="300"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="screenshots/screen2.png" width="300">
+  <img src="musical/music1.jpg" width="300"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="musical/music2.jpg" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="musical/music3.jpg" width="300"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="musical/music4.jpg" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="musical/music5.jpg" width="300"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="musical/music6.jpg" width="300">
 
 ---
 
