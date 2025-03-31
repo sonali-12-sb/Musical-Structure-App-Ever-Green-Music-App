@@ -5,7 +5,7 @@ This app was developed as part of the **Android Basics: Multi-Screen Apps** cour
 ## 📌 Project Overview  
 
 The goal was to design and layout the flow for the structure of a **Music Player app**, making the structure of a music app using **Intents, New Activities, ArrayLists, Loops, and Custom Classes**.  
-**Note:** For this project, the app does not actually need to play music.  
+**Note:** For this project, the app does not actually need to play music. 
 ---
 
 ## ✅ Requirements Followed  
