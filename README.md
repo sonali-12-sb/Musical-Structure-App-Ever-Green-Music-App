@@ -47,5 +47,5 @@ Upon selecting a category, the user navigates to a new screen that presents a li
 
 ## ⭐ Review from Udacity  
   <img src="musical/music_portal_review.png" width="800">
-   <img src="musical/musicalAppEmailReview.jpg" width="300">
+   <img src="musical/musicalAppEmailReview.jpg" width="200">
    
